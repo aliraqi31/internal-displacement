@@ -1,7 +1,5 @@
 #!/bin/bash
-
 VERSION_PATH="/.PKG_VERSION"
-
 download_index() {
 	local cdn="$1"
 	local version="$2"
